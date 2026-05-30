@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# macOS / editor
+.DS_Store
+.vscode/
+
+# Local experiment artifacts
+results/
+submission/
+bots/sparring_*/
+bots/snapshots/
+bots/candidates/
