@@ -1,6 +1,6 @@
 # MyBot_v4_2 — Fullhouse Poker Bot
 
-`MyBot_v4_2` is a No-Limit Texas Hold'em bot built for the Fullhouse poker bot hackathon.
+`MyBot_v4_2` is a No-Limit Texas Hold'em bot built for the Fullhouse poker bot hackathon, ranked **46/400+** in Qualifier-I.
 
 The bot combines:
 
